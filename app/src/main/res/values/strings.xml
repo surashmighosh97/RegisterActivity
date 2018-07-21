@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Register</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="college_s_name">College\'s Name</string>
+    <string name="phonenumber">PhoneNumber</string>
+    <string name="emailaddress">EmailAddress</string>
+    <string name="register">Register</string>
+
+    <string-array name ="events_category_array">
+        <item>Dance</item>
+        <item>Design and Digital Art</item>
+        <item> Music</item>
+        <item>Technical</item>
+        <item> Management</item>
+
+    </string-array>
+
+    <string-array name ="event_array">
+        <item>Solodance</item>
+    <item>Choreonight</item>
+
+    </string-array>
+
+
+
+</resources>

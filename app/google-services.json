@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1001069253483",
+    "firebase_url": "https://registerapp-56abf.firebaseio.com",
+    "project_id": "registerapp-56abf",
+    "storage_bucket": "registerapp-56abf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001069253483:android:5e12067b577ba058",
+        "android_client_info": {
+          "package_name": "com.example.surashmi.register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001069253483-8e0n52oo05f705vsa0nr11ojd9f1m1gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAbZUakCOAN06a4Tm9JNkDHE1EoUxFLes"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
